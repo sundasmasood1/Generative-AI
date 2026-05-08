@@ -1,0 +1,50 @@
+# CodeSense AI Agent
+
+CodeSense AI Agent is an intelligent AI-powered assistant designed to help developers improve productivity, understand code more efficiently, and streamline software development workflows.
+
+This project focuses on integrating Generative AI capabilities with modern development practices to create a smart coding assistant capable of analyzing prompts, understanding development requirements, and generating meaningful responses for programming-related tasks.
+
+## Features
+
+- AI-powered coding assistance
+- Prompt-based code understanding
+- API integration for dynamic responses
+- Developer productivity support
+- Smart query handling
+- Beginner-friendly AI agent architecture
+- Interactive and responsive workflow
+
+## Technologies Used
+
+- JavaScript
+- React
+- REST APIs
+- Generative AI Concepts
+- Prompt Engineering
+- AI Agent Workflows
+- Visual Studio Code
+
+## Project Purpose
+
+The purpose of CodeSense AI Agent is to explore the practical implementation of Generative AI in software engineering and create an intelligent assistant that can support developers during coding, debugging, learning, and project development processes.
+
+This project also reflects hands-on learning in:
+- AI Agent development
+- Prompt Engineering
+- API communication
+- Intelligent software systems
+- Modern AI-powered application design
+
+## Future Improvements
+
+- Multi-agent collaboration
+- Real-time code suggestions
+- AI debugging assistant
+- Voice-enabled interaction
+- Integration with code editors
+- Advanced LLM workflows
+- Personalized developer support
+
+## Author
+
+Sundas Masood
